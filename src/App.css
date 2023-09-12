@@ -1,0 +1,15 @@
+.dis {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+  margin-top: 50px;
+}
+.imgee {
+  height: 200px;
+  background-size: cover;
+}
+.hi {
+  height: 400px;
+}
